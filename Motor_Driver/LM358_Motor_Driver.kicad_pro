@@ -481,12 +481,12 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../../PROJECTS/Simple_LM358_Motor_Driver/pcb_layout/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
-      "vrml": ""
+      "step": "../../../../PROJECTS/Simple_LM358_Motor_Driver/pcb_layout/SIMPLE_MOTOR_DRIVER.step",
+      "svg": "../../../../PROJECTS/Simple_LM358_Motor_Driver/pcb_layout/",
+      "vrml": "../../../../PROJECTS/Simple_LM358_Motor_Driver/pcb_layout/SIMPLE_MOTOR_DRIVER.wrl"
     },
     "page_layout_descr_file": ""
   },
